@@ -10,11 +10,10 @@
     <h1>My Skills</h1>
 
     <ul>
-        <li>HTML (Beginner)</li>
-        <li>CSS (Beginner)</li>
-        <li>Gaming (efootball)</li>
-        <li>Guitar Playing</li>
-        <li>Basic Drawing</li>
+        <li>I have basic skills in HTML and CSS, which are the foundation of web development.</li>
+        <li>I have gaming skills in both Free Fire and eFootball that show your focus, strategy, and quick decision-making.</li>
+        <li>I enjoy playing the guitar as a creative and relaxing hobby.</li>
+        <li>I also have basic skills in drawing and editing, which allow you to express your creativity in visual form. </li>
     </ul>
 
     <nav>
