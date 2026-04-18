@@ -9,9 +9,8 @@
 
     <h1>My Hobbies</h1>
 
-    <p>🎮 Playing Free Fire</p>
-    <p>🎸 Playing Guitar and making riffs</p>
-    <p>🎨 Drawing</p>
+    <p> One of my hobbies is exploring and trying new AI tools. I enjoy experimenting with different apps and platforms to see how artificial intelligence can help in creativity, learning, and daily tasks. This interest helps me stay updated with modern technology and understand how AI works in real-life use.</p>
+    <p>🎸 Another is playing the guitar, where i enjoy expressing your creativity through music. i like practicing chords, riffs, and melodies, which helps you improve your musical skills over time. Playing guitar also gives me relaxed and a way to express your emotions in a creative form.</p>
 
     <nav>
         <a href="about.html">About</a>
