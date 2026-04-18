@@ -15,9 +15,9 @@
 
     <h2>About Me</h2>
 
-    <p>Hello! I am Evan Shrestha, a Grade 11 Computer Science student from Nepal.</p>
+    <p>Hello! Evan Shrestha is a Class 11 student from Nepal, currently studying under the NEB curriculum with a focus on Computer Science. He studies at Kavya School, Shuklaphanta section, and has a strong interest in both academics and creative activities.</p>
 
-    <p>I love playing guitar, and creating music and riffs. I also enjoy drawing sometimes.</p>
+    <p>My hobbies include playing guitar, playing Free Fire, and drawing. I enjoy exploring music by creating riffs and expressing your creativity through art, while gaming helps you relax and sharpen your focus and reflexes. Along with this, I like learning new skills related to technology and creativity, which keeps your interests balanced between entertainment and self-improvement.</p>
 
     <nav>
         <a href="about.html">About</a>
