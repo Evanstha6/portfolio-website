@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hobbies</title>
+    <link rel="stylesheet" href="css/hobbies.css">
+</head>
+
+<body>
+
+    <h1>My Hobbies</h1>
+
+    <p>🎮 Playing Free Fire</p>
+    <p>🎸 Playing Guitar and making riffs</p>
+    <p>🎨 Drawing</p>
+
+    <nav>
+        <a href="about.html">About</a>
+        <a href="skills.html">Skills</a>
+        <a href="hobbies.html">Hobbies</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+</body>
+</html>

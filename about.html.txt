@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+    <link rel="stylesheet" href="css/about.css">
+
+    <style>
+        h2 { color: blue; } /* Internal CSS */
+    </style>
+</head>
+
+<body>
+
+    <h1 style="color: red;">Evan Shrestha</h1> <!-- Inline CSS -->
+
+    <h2>About Me</h2>
+
+    <p>Hello! I am Evan Shrestha, a Grade 11 Computer Science student from Nepal.</p>
+
+    <p>I love playing guitar, and creating music and riffs. I also enjoy drawing sometimes.</p>
+
+    <nav>
+        <a href="about.html">About</a>
+        <a href="skills.html">Skills</a>
+        <a href="hobbies.html">Hobbies</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+</body>
+</html>
